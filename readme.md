@@ -5,7 +5,7 @@ Project Website: [https://wingprint.github.io/](https://wingprint.github.io/)
 
 ## Datasets
 
-Bats in free flight: [https://hugginface.co/datasets/j-dey/bats-wing-print-free-flight](https://hugginface.co/datasets/j-dey/bats-wing-print-free-flight)
+Bats wings in free flight: [https://hugginface.co/datasets/j-dey/bats-wing-print-free-flight](https://hugginface.co/datasets/j-dey/bats-wing-print-free-flight)
 
 Bat wing scans: [https://huggingface.co/datasets/j-dey/bats-wing-print-scans](https://huggingface.co/datasets/j-dey/bats-wing-print-scans)
 
