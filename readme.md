@@ -21,7 +21,7 @@ and activate it:
 
 Finally, you can install all necessary dependencies in your virtual environment:
 
-`pip install -r requirements.txt`
+`pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cu126`
 
 ## Free-flight/ML experiments
 
